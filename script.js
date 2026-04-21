@@ -1,4 +1,4 @@
-[21:27, 21/04/2026] Mohit: <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
